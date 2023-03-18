@@ -1,6 +1,6 @@
 // Code your solutions in this 
 
-const gifts=["Guadalupe", "Ollie", "Aki"];
+const gifts =["Guadalupe", "Ollie", "Aki"];
 function writeCards(){
     const response=[];
     let j;
